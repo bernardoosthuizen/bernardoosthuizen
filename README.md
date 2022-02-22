@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**bernardoosthuizen/bernardoosthuizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Bernie, currently a computer science student at the University of London. After a successful career in aviation, I am excited to pivot my career into tech. I am curious about all things blockchain, cloud and artificial intelligence. I would love to connect!
+<br />
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Links
+<br />
+<p align="center">
+  <a href="https://bernie.codes"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="mailto:bernard.oosthuizen@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
+  <a href="https://www.linkedin.com/in/bernardoosthuizen"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
+  <a href="https://twitter.com/_TheBlockDev"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
+  <a href="https://open.spotify.com/user/bernardoosthuizn"><img src="https://img.icons8.com/color/96/000000/spotify--v1.png" alt="spotify"/></a>
+</p>
