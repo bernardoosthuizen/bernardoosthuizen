@@ -7,7 +7,7 @@ I’m Bernie, currently a computer science student at the University of London. 
 ## Links
 <br />
 <p align="center">
-  <a href="https://bernie.codes"><img src="https://img.icons8.com/fluent/96/000000/domain.png" alt="darkwood"/></a>
+  <a href="https://bernie.codes"><img src="https://img.icons8.com/fluent/42/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:bernard.oosthuizen@gmail.com"><img src="https://img.icons8.com/color/96/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/bernardoosthuizen"><img src="https://img.icons8.com/color/96/000000/linkedin.png" alt="linkedin"/></a>
   <a href="https://twitter.com/berniecodes"><img src="https://img.icons8.com/color/96/000000/twitter-squared.png" alt="twitter"/></a>
