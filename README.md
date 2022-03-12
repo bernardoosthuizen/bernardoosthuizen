@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m Bernie, currently a computer science student at the University of London. After a successful career in aviation, I am excited to pivot my career into tech. I am curious about all things blockchain, cloud and artificial intelligence. I would love to connect!
+I’m Bernie, currently a computer science student at the University of London. After a successful career in aviation, I am excited to pivot my career into tech. I am curious about all things web, cloud and artificial intelligence. I would love to connect!
 <br />
 
 
