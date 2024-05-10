@@ -10,7 +10,7 @@ If you have an idea that you want to bring to life, I would love to hear from yo
 
 ## Links
 <br />
-<p align="center">
+<p align="left">
   <a href="https://bernie.codes"><img src="https://img.icons8.com/fluent/42/000000/domain.png" alt="darkwood"/></a>
   <a href="mailto:bernard.oosthuizen@gmail.com"><img src="https://img.icons8.com/color/42/000000/gmail.png" alt="email"/></a>
   <a href="https://www.linkedin.com/in/bernardoosthuizen"><img src="https://img.icons8.com/color/42/000000/linkedin.png" alt="linkedin"/></a>
