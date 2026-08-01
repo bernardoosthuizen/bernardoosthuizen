@@ -1,6 +1,6 @@
 ### Hi  👋
 
-Nice to meet you! I'm Bernie, a Pilot and Software Engineer based in Hong Kong. As an accomplished airline pilot with a Bachelor of Science in Computer Science, I possess a unique blend of technical expertise, exceptional people skills, and hands-on engineering management experience. 
+Nice to meet you! I'm Bernie, a Pilot and Software Engineer based in Hong Kong.
 <br />
 
 
