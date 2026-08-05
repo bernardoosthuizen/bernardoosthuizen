@@ -1,6 +1,6 @@
 ### Hi  👋
 
-Nice to meet you! I'm Bernie, a Pilot and Software Engineer based in Hong Kong.
+Nice to meet you! I'm Bernie, a Pilot and technology nerd based in Hong Kong.
 <br />
 
 
